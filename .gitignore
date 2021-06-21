@@ -9,3 +9,5 @@
 
 # Project exclude paths
 /out/
+/LeetCodeExercises.iml
+/.idea/
